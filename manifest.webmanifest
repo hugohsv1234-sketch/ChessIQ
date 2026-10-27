@@ -1,0 +1,19 @@
+{
+  "name": "ChessIQ – Game Review",
+  "short_name": "ChessIQ",
+  "description": "Deine Schachpartien mit Stockfish analysieren.",
+  "lang": "de",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e12",
+  "theme_color": "#0b0e12",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
